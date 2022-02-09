@@ -1,1 +1,1 @@
-#Değişken ve Veri Tipleri örnekleri yapıldı.
+# Değişken ve Veri Tipleri örnekleri yapıldı.
